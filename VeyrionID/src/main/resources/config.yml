@@ -1,0 +1,20 @@
+# Ras yang boleh dipilih saat mendaftar (ubah sesuai lore Veyrion)
+races:
+  - Manusia
+  - Elf
+  - Dwarf
+  - Beastkin
+  - Draconian
+
+# Pemain boleh mendaftar ulang sendiri? (admin selalu bisa menghapus data)
+allow-reregister: false
+
+# Jarak (blok) untuk /identitas tunjuk
+show-radius: 6
+
+item:
+  # CustomModelData untuk tekstur kartu (resource pack). 0 = bawaan kertas.
+  custom-model-data: 0
+
+# Pesan
+prefix: "<#b8892b><bold>Veyrion</bold> <dark_gray>»</dark_gray> "
